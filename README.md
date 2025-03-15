@@ -1,2 +1,2 @@
 # foobar-repo
-Testing repositor for qleware
+Testing repository for qleware.
